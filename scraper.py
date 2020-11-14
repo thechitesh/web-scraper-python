@@ -35,7 +35,6 @@ def send_email():
     server.ehlo()
 
     server.login('hi.alpha01@gmail.com', 'tcktgsdmovqzssze')
-    # server.login('hi.alpha01@gmail.com', 'app_password')
     subject = "Price fell down for "
     body = 'Check the amazon link '+URL
 
