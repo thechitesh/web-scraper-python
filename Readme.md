@@ -15,4 +15,7 @@ and create App password for the gmail account for details search 'App passwords 
 and then import smtplib (no separate pip installation is needed )
 and then you are good to go
 
+
+The gmail password is deactivated for now.
+
 ### ref :- https://www.youtube.com/watch?v=Bg9r_yLk7VY&t=77s&ab_channel=DevEd
